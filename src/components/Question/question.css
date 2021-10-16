@@ -1,0 +1,8 @@
+.question-container{
+    min-width: 40rem;
+    min-height: 10rem;
+    background-color: #252d4a;
+    padding: 1rem 3rem;
+    color: white;
+    border-radius: 10px;
+}
